@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_RESTAPI_SERVER_FILE D:/C++/RESTAPI_Server/RESTAPI_SERVER/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/RESTAPI_SERVER.exe)
+set(__QT_DEPLOY_TARGET_RESTAPI_SERVER_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_RESTAPI_SERVER_RUNTIME_DLLS D:/QT/6.8.2/mingw_64/bin/Qt6Network.dll;D:/QT/6.8.2/mingw_64/bin/Qt6Concurrent.dll;D:/QT/6.8.2/mingw_64/bin/Qt6Core.dll)

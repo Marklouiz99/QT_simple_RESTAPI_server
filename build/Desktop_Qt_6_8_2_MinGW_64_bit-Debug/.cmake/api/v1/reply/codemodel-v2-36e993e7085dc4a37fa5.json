@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-bcd300c98074c7f0b36d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RESTAPI_SERVER",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "RESTAPI_SERVER::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RESTAPI_SERVER-Debug-c9538470661be7a24874.json",
+					"name" : "RESTAPI_SERVER",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RESTAPI_SERVER_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RESTAPI_SERVER_autogen-Debug-e7ccc3f35931bdb4d779.json",
+					"name" : "RESTAPI_SERVER_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RESTAPI_SERVER_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RESTAPI_SERVER_autogen_timestamp_deps-Debug-022cf50d144738111421.json",
+					"name" : "RESTAPI_SERVER_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/C++/RESTAPI_Server/RESTAPI_SERVER/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug",
+		"source" : "D:/C++/RESTAPI_Server/RESTAPI_SERVER"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
